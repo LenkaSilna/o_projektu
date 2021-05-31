@@ -6,7 +6,7 @@
   --color-font: black;
   --color-font-light: white;
   --color-accent: #163a4d;
-  --color-bg-primary: #ece2e2;
+  --color-bg-primary: #eaedf8;
 }
 
 html {
@@ -199,7 +199,6 @@ body {
 
   .introduction__text {
     flex: 1 1 40%;
-    text-align: left;
   }
 }
 
@@ -211,7 +210,7 @@ body {
 
 .text {
   max-width: 600px;
-  margin: calc(var(--spacer) * 3) auto;
+  margin: calc(var(--spacer) * 2) auto;
   padding-left: 1rem;
   padding-right: 1rem;
 
