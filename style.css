@@ -178,7 +178,7 @@ body {
 }
 
 .introduction__text {
-  font-size: 1.125rem;
+  font-size: 1.1rem;
   text-align: center;
   margin: var(--spacer) 0;
 }
@@ -209,7 +209,6 @@ body {
   }
 }
 
-/* Text */
 .text {
   max-width: 600px;
   margin: calc(var(--spacer) * 3) auto;
@@ -217,9 +216,10 @@ body {
   padding-right: 1rem;
 
   font-family: var(--font);
-  font-size: 1.125rem;
+  font-size: 1.1rem;
 }
 
-.text--homepage {
+.link--prototyp {
+  text-decoration: underline;
   text-align: center;
 }
