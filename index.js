@@ -1,4 +1,5 @@
 'use strict';
+console.log('ahoj');
 
 const showM = () => {
   const menuElm = document.querySelector('.menu__links');
